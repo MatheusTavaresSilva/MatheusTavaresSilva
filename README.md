@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatheusTavaresSilva
 - 👀 I’m interested in Web development and mobile
 - 🌱 I’m currently learning React js and do pretend to learn node.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for a intership or a junior job
 - 📫 How to reach me : email = matheustavares876@gmail.com
 
 <!---
